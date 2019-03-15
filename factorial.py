@@ -24,3 +24,4 @@ if num < 0:
 else:
     print("the factorial of",num,"is",rec_factorial(num))
         
+help(int)
