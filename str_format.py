@@ -1,0 +1,5 @@
+name = input("What is your name ")
+age = input("Whatis your age ")
+program = input("which programm language are you learning ")
+print("Your name is {}, aged {} and your are interested in learning {} program language.".format(name, age, program))
+print(f"your name is {name} and your age is {age}, and your interested in {program} language.")

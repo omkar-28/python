@@ -19,4 +19,4 @@ while len(players) > 0:
     players.remove(playerB)
     
 print("teamA:",teamA)
-# print("teamB:",teamB)
+print("teamB:",teamB)
